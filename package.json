@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/dchoi-sait/nodejs_fundamental/issues"
   },
-  "homepage": "https://github.com/dchoi-sait/nodejs_fundamental#readme"
+  "homepage": "https://github.com/dchoi-sait/nodejs_fundamental#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
