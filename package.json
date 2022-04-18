@@ -1,0 +1,19 @@
+{
+  "name": "node_js_fundamental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchoi-sait/nodejs_fundamental.git"
+  },
+  "author": "Daniel Choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dchoi-sait/nodejs_fundamental/issues"
+  },
+  "homepage": "https://github.com/dchoi-sait/nodejs_fundamental#readme"
+}
